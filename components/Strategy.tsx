@@ -17,7 +17,7 @@ export default function Strategy() {
             </div>
             <div className="flex-1 text-center md:text-left">
               <p className="text-lg md:text-xl text-gray-300 mb-6">
-                CapCivic also offers strategy services for public sector organizations and the consultants who serve them.
+                CapCivic also offers general strategy services for public sector organizations and the consultants who serve them.
               </p>
               <a
                 href="https://www.capcivicstrategy.com"
