@@ -19,20 +19,20 @@ export const metadata: Metadata = {
       "CapCivic makes cross-sector partnerships possible through creative capital solutions.",
     images: [
       {
-        url: "/images/capcivic-logo.png",
-        width: 1200,
-        height: 630,
+        url: "/images/og-image.png",
+        width: 190,
+        height: 192,
         alt: "CapCivic",
       },
     ],
     type: "website",
   },
   twitter: {
-    card: "summary_large_image",
+    card: "summary",
     title: "CapCivic | Capital Strategy for Community Impact",
     description:
       "CapCivic makes cross-sector partnerships possible through creative capital solutions.",
-    images: ["/images/capcivic-logo.png"],
+    images: ["/images/og-image.png"],
   },
 };
 
