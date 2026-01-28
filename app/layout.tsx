@@ -13,6 +13,27 @@ export const metadata: Metadata = {
     "community impact",
     "municipal advisory",
   ],
+  openGraph: {
+    title: "CapCivic | Capital Strategy for Community Impact",
+    description:
+      "CapCivic makes cross-sector partnerships possible through creative capital solutions.",
+    images: [
+      {
+        url: "/images/capcivic-logo.png",
+        width: 1200,
+        height: 630,
+        alt: "CapCivic",
+      },
+    ],
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "CapCivic | Capital Strategy for Community Impact",
+    description:
+      "CapCivic makes cross-sector partnerships possible through creative capital solutions.",
+    images: ["/images/capcivic-logo.png"],
+  },
 };
 
 export default function RootLayout({
